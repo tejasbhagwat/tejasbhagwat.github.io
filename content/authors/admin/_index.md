@@ -40,8 +40,8 @@ interests:
 education:
   - area: PhD Conservation Biology
     institution: University of Goettingen
-     date_start: 2021-01-01
-    date_end: 2025-12-31
+  #   date_start: 2021-01-01
+  #  date_end: 2025-12-31
   #  summary: |
   #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 #    button:
@@ -49,8 +49,8 @@ education:
   #    url: 'https://example.com'
   - area: MSc Global Change Ecology
     institution: University of Bayreuth
-    date_start: 2015-01-01
-    date_end: 2018-12-31
+   # date_start: 2015-01-01
+   # date_end: 2018-12-31
  #   summary: |
   #    GPA: 3.8/4.0
 
@@ -60,8 +60,8 @@ education:
   #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Biology and Environmental Science
     institution: George Mason University
-    date_start: 2008-01-01
-    date_end: 2012-12-31
+  #  date_start: 2008-01-01
+  #  date_end: 2012-12-31
  #   summary: |
   #    GPA: 3.4/4.0
       
