@@ -6,7 +6,7 @@
 # Website name
 title: Tejas Bhagwat
 # Website URL
-baseURL: 'https://tejasbhagwat.github.io/'
+baseURL: 'https://tejasbhagwat.netlify.app/'
 copyright: "&copy;2025"
 ############################
 ## LANGUAGE
