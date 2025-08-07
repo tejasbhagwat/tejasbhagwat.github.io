@@ -28,13 +28,13 @@ education:
   courses:
   - course: PhD in Conservation Biology
     institution: University of Goettingen
- #   year: 2015-2021
+   year: 2021-2025
   - course: MSc in Global Change Ecology
     institution: University of Bayreuth
-  #  year: 2013
+   year: 2018
   - course: BSc in Biology and Environmental Science
     institution: George Mason University
- #   year: 2012
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,16 +61,16 @@ social:
 #  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+# highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 I am a conservation scientist with academic background in global change ecology, biogeography and environmental science. I specialize in applied satellite remote sensing for global biodiversity conservation.
