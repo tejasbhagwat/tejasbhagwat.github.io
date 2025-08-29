@@ -11,7 +11,7 @@ main:
     url: /#featured
     weight: 11
   - name: CV
-    url: /files/cv.pdf
+    url: /uploads/resume.pdf
     weight: 12
   - name: Contact
     url: /#contact
