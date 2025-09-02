@@ -92,4 +92,4 @@ education:
 
 ## About Me
 
-I am a conservation scientist with academic background in global change ecology, biogeography and environmental science. I specialize in applied satellite remote sensing for global biodiversity conservation.
+I am a conservation scientist with academic background in global change ecology, biogeography and environmental science. I specialize in applied satellite remote sensing for global biodiversity conservation. I am currently a Postdoctral Research Fellow at the Department of Conservation Biology in University of Goettingen, and a Research Scientist at the DDA (Federation of German Avifaunists).  
