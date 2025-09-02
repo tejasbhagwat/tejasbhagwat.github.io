@@ -6,8 +6,7 @@
 # Appearance
 appearance:
   mode: light
-  color: red
-  theme: forest
+  color: teal
 
 # SEO
 marketing:
