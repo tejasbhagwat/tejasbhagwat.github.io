@@ -1,6 +1,6 @@
 ---
 
-widget: '#feautured'
+widget: '#featured'
 headless: true
 active: true
 weight: 11
