@@ -2,7 +2,16 @@
 title: "A Novel, Post-Soviet Fire Disturbance Regime Drives Bird Diversity and Abundance on the Eurasian Steppe"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Tobias Kuemmerle
+- Mahmood Soofi
+- Paul F. Donald
+- Norbert Hölzel
+- Albert Salemgareev
+- Ingrid Stirnemann
+- Ruslan Urazaliyev
+- Matthias Baumann
+- Johannes Kamp
+date: "2024-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
