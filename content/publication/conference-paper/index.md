@@ -47,8 +47,8 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/eap.70016'
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_code: ''
+# url_dataset: ''
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
