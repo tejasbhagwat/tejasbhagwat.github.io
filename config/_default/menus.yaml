@@ -8,7 +8,7 @@
     url: /#about
     weight: 10
   - name: Research
-    url: /#featured
+    url: /#_index
     weight: 11
   - name: CV
     url: /uploads/resume.pdf
