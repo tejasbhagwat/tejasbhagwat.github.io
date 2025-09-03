@@ -40,8 +40,8 @@ links:
 # - name: Custom Link
 #  url: http://example.org
 url_pdf: 'https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17026'
-url_code: 'https://zenodo.org/records/10053814'
-url_dataset: 'https://zenodo.org/records/10053814)'
+# url_code: 'https://zenodo.org/records/10053814'
+# url_dataset: 'https://zenodo.org/records/10053814)'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
