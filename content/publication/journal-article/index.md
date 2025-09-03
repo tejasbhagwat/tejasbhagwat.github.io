@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "Collapse and Recovery of Livestock Systems Shape Fire Regimes on the Eurasian Steppe: A Review of Ecosystem and Biodiversity Implications"
 authors:
+- Johannes Kamp
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Norbert Hoelzel
+- Ilya Smelansky 
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2025-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +20,12 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Philosophical Transactions of the Royal Society B: Biological Sciences*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: Shifts in fire regimes can trigger rapid changes in ecosystem functioning and biodiversity. We synthesize evidence for patterns, causes and consequences of recent change in fire regimes across the Eurasian steppes, a neglected global fire hotspot. Political and economic turmoil following the break-up of the Soviet Union in 1991 triggered abrupt land abandonment over millions of hectares and a collapse of livestock populations. The build-up of vegetation as fuel, rural depopulation and deteriorating fire control led to a rapid increase in fire size, area burned and fire frequency. Fire regimes were also driven by drought, but likely only after fuel had accumulated. Increased fire disturbance resulted in grass encroachment, vegetation homogenization and decreasing plant species diversity. Feedback loops due to the high grass flammability were likely. Direct and carry-on effects on birds, keystone small mammals and insects were largely negative. Nutrient cycling and carbon balance changed, but these changes have yet to be quantified. The regime of large and frequent fires persisted until ca 2010 but shifted back to a more grazing-controlled regime as livestock populations recovered, reinforced by increasing precipitation. Key future research topics include the effects of future climate change, changing pyrodiversity and pyric herbivory on ecosystem resilience. Ongoing steppe restoration and rewilding efforts, and integrated fire management will benefit from a better understanding of fire regimes.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:  Shifts in fire regimes can trigger rapid changes in ecosystem functioning and biodiversity. We synthesize evidence for patterns, causes and consequences of recent change in fire regimes across the Eurasian steppes, a neglected global fire hotspot. 
 
 tags:
 - Source Themes
@@ -33,8 +34,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0062'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: Wiki commons'
   focal_point: ""
   preview_only: false
 
@@ -63,13 +64,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
