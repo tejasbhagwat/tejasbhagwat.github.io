@@ -1,5 +1,5 @@
 ---
-title: 'Losing a jewel: Rapid declines in myanmar’s intact forests from 2002-2014'
+title: 'Losing a jewel: Rapid declines in Myanmar’s intact forests from 2002-2014'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
