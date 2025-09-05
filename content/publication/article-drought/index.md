@@ -27,7 +27,7 @@ doi: ''
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *remote sensing*
+publication: In *Remote Sensing*
 # publication_short: In *ESA*
 
 abstract: Globally, the number of dams increased dramatically during the 20th century. As a result, monitoring water levels and storage volume of dam-reservoirs has become essential in order to understand water resource availability amid changing climate and drought patterns. Recent advancements in remote sensing data show great potential for studies pertaining to long-term monitoring of reservoir water volume variations. In this study, we used freely available remote sensing products to assess volume variations for Lake Mead, Lake Powell and reservoirs in California between 1984 and 2015. Additionally, we provided insights on reservoir water volume fluctuations and hydrological drought patterns in the region. We based our volumetric estimations on the area–elevation hypsometry relationship, by combining water areas from the Global Surface Water (GSW) monthly water history (MWH) product with corresponding water surface median elevation values from three different digital elevation models (DEM) into a regression analysis. Using Lake Mead and Lake Powell as our validation reservoirs, we calculated a volumetric time series for the GSW–DEM elevation combinations that showed a strong linear area (WA) – elevation (WH) (R2 > 0.75) hypsometry. 
