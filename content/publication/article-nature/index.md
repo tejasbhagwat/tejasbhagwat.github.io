@@ -37,7 +37,7 @@ doi: ''
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *communications biology*
+publication: In *Communications Biology*
 # publication_short: In *ESA*
 
 abstract: Habitat degradation and hunting have caused the widespread loss of larger vertebrate species (defaunation) from tropical biodiversity hotspots. However, these defaunation drivers impact vertebrate biodiversity in different ways and, therefore, require different conservation interventions. We conducted landscape-scale camera-trap surveys across six study sites in Southeast Asia to assess how moderate degradation and intensive, indiscriminate hunting differentially impact tropical terrestrial mammals and birds. We found that functional extinction rates were higher in hunted compared to degraded sites. Species found in both sites had lower occupancies in the hunted sites. Canopy closure was the main predictor of occurrence in the degraded sites, while village density primarily influenced occurrence in the hunted sites. Our findings suggest that intensive, indiscriminate hunting may be a more immediate threat than moderate habitat degradation for tropical faunal communities, and that conservation stakeholders should focus as much on overhunting as on habitat conservation to address the defaunation crisis.
