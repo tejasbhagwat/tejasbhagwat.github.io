@@ -10,6 +10,4 @@ banner:
   caption: ''
   image: ''
 
-count: 10
-
 ---
