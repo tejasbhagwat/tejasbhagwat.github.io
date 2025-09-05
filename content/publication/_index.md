@@ -9,5 +9,7 @@ view: citation
 banner:
   caption: ''
   image: ''
-  
+
+count: 10
+
 ---
