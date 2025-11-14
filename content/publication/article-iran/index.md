@@ -34,23 +34,7 @@ publication_types: ["article-journal"]
 publication: In *Journal for Nature Conservation*
 # publication_short: In *ESA*
 
-abstract: 
-With climate change, the increasing frequency of extreme weather and variability in climatic conditions have
-major impacts on wetland ecosystems, especially in arid regions such as south-west Asia. Iran hosts critical
-habitats and stopover sites for approximately 1.9 million waterbirds, yet its wetlands are threatened by extreme
-weather events, variation in climatic variables and human activities such as dams. We here assess how droughts
-and the variation of frost events in combination with increases in retained water behind dams impact waterbird
-communities in Iran. We used 10-year ranger-collected data (2013–2022) of 132 waterbirds in Iranian wetlands
-(n = 22), and applied Bayesian generalised linear mixed models to quantify effects of droughts (indicated by a
-negative standardised precipitation index SPI), rainfall, number of frost days, dam water surface (proxied by the
-water retained by the dam), vegetation cover, and wetland water surface on total abundance and richness of
-waterbird species. Our results show that waterbird richness increased in wetter periods but declined as dam
-water surfaces expanded. Specifically, a decrease of one-unit SPI was associated with an average decrease of
-three species per wetland and an increase of 25 km2 in dam water surface was associated with an average
-decrease of three species downstream per wetland. Furthermore, an increase of 30 frost days corresponded to an
-average decline of 5548 ± 1910 individual birds per wetland (n = 220). These findings suggest that rising
-volumes of water behind dams in upstream wetlands is likely to exacerbate pressure on waterbirds from extreme
-weather events.
+abstract: With climate change, the increasing frequency of extreme weather and variability in climatic conditions have major impacts on wetland ecosystems, especially in arid regions such as south-west Asia. Iran hosts critical habitats and stopover sites for approximately 1.9 million waterbirds, yet its wetlands are threatened by extreme weather events, variation in climatic variables and human activities such as dams. We here assess how droughts and the variation of frost events in combination with increases in retained water behind dams impact waterbird communities in Iran. We used 10-year ranger-collected data (2013–2022) of 132 waterbirds in Iranian wetlands (n = 22), and applied Bayesian generalised linear mixed models to quantify effects of droughts (indicated by a negative standardised precipitation index SPI), rainfall, number of frost days, dam water surface (proxied by the water retained by the dam), vegetation cover, and wetland water surface on total abundance and richness of waterbird species. Our results show that waterbird richness increased in wetter periods but declined as dam water surfaces expanded. Specifically, a decrease of one-unit SPI was associated with an average decrease of three species per wetland and an increase of 25 km2 in dam water surface was associated with an average decrease of three species downstream per wetland. Furthermore, an increase of 30 frost days corresponded to an average decline of 5548 ± 1910 individual birds per wetland (n = 220). These findings suggest that rising volumes of water behind dams in upstream wetlands is likely to exacerbate pressure on waterbirds from extreme weather events.
 # Summary. An optional shortened abstract.
 
 # tags:
