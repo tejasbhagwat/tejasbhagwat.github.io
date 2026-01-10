@@ -19,7 +19,7 @@ authors:
 # - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2025-12-06'
+date: '2026-01-06'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ doi: ''
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: Forthcoming In *Journal of Ornithology*
+publication: *Journal of Ornithology*
 # publication_short: In *ESA*
 
 # abstract: Abstract.
