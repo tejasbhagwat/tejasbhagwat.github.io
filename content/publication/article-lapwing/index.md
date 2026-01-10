@@ -1,5 +1,4 @@
 ---
-
 title: 'Habitat suitability for Sociable Lapwing (Vanellus gregarius) increases across its global range, but populations continue to decline'
 
 # Authors
@@ -20,7 +19,7 @@ authors:
 # - 'Equal contribution'
 #  - 'Equal contribution'
 
-# date: '2026-01-01'
+date: '2025-12-06'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
