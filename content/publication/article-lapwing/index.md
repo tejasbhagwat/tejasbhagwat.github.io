@@ -31,7 +31,7 @@ doi: ''
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Journal of Ornithology*
+publication: In *Journal of Ornithology*
 # publication_short: In *ESA*
 
 # abstract: Abstract.
