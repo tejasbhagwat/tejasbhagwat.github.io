@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1617138125003279'
+url_pdf: 'https://link.springer.com/article/10.1007/s10336-025-02357-2'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
