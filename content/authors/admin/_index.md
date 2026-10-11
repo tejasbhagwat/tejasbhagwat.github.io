@@ -13,8 +13,8 @@ role: Conservation Biologist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Goettingen
-    url: ""
+  - name: University of Wageningen - Wildlife Ecology and Conservation
+    url: "https://www.wur.nl/en/chair-groups/wildlife-ecology-and-conservation"
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
