@@ -32,10 +32,9 @@ profiles:
   #  url: https://orcid.org/
 
 interests:
-  - Wildlife conservation
-  - Landscape ecology
-  - Satellite remote sensing
-
+  - Conservation science
+  - Global change ecology
+  - GIS Satellite remote sensing
 
 education:
   - area: PhD Conservation Biology
