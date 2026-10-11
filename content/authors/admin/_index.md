@@ -20,7 +20,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:tejasbhagwat@gmail.com'
+    url: 'mailto:tejasbhagwat@proton.me'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/tejasbhagwat
@@ -35,6 +35,8 @@ interests:
   - Conservation science
   - Biogeography and land-use change
   - GIS Satellite remote sensing
+  - Land cover mapping
+  - Ecological modelling
 
 education:
   - area: PhD Conservation Biology
@@ -91,4 +93,4 @@ education:
 
 ### About Me
 
-I am a conservation scientist with academic background in global change ecology, biogeography and environmental science. I specialize in applied satellite remote sensing for global biodiversity conservation. I am currently a Postdoctral Research Fellow at the Department of Conservation Biology in University of Goettingen, and a Research Scientist at the DDA (Federation of German Avifaunists).  
+I am a conservation scientist with academic background in global change ecology, biogeography and satellite remote sensing techniques for conservation science. My research focuses on land-use and land-use change drivers of biodiversity in cultural landscapes. Since September 2026, I am a postdoctoral researcher at Wildlife Ecology and Conservation Group in Wageningen University
