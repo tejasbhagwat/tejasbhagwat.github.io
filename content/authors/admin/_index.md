@@ -13,7 +13,7 @@ role: Global Change Ecologist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Wageningen - Wildlife Ecology and Conservation
+  - name: Wageningen University - Wildlife Ecology and Conservation
     url: "https://www.wur.nl/en/chair-groups/wildlife-ecology-and-conservation"
 
 # Social network links
