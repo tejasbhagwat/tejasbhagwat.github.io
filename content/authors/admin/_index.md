@@ -9,7 +9,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Conservation Biologist
+role: Global Change Ecologist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,7 +33,7 @@ profiles:
 
 interests:
   - Conservation science
-  - Global change ecology
+  - Biogeography and land-use change
   - GIS Satellite remote sensing
 
 education:
